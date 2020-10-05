@@ -64,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\MainProgram\BoardManager.cs" />
+    <Compile Include="Assets\Scripts\MainProgram\BoardStatus.cs" />
     <Compile Include="Assets\Scripts\MainProgram\GameManager.cs" />
     <Compile Include="Assets\Scripts\MainProgram\TurnManager.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerManager.cs" />
